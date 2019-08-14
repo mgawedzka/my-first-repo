@@ -72,3 +72,7 @@ const takeOrder = (topping1, topping2) => {
 takeOrder("pineapple", "pepper")
 
 
+const multi = (num1, num2) => {
+    return num1 * num2;
+}
+console.log(multi (2, 3));
